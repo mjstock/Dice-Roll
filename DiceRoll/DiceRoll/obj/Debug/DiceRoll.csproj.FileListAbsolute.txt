@@ -1,0 +1,21 @@
+c:\users\stock1\documents\visual studio 2013\Projects\DiceRoll\DiceRoll\bin\Debug\DiceRoll.exe.config
+c:\users\stock1\documents\visual studio 2013\Projects\DiceRoll\DiceRoll\bin\Debug\DiceRoll.exe
+c:\users\stock1\documents\visual studio 2013\Projects\DiceRoll\DiceRoll\bin\Debug\DiceRoll.pdb
+c:\users\stock1\documents\visual studio 2013\Projects\DiceRoll\DiceRoll\obj\Debug\DiceRoll.csprojResolveAssemblyReference.cache
+c:\users\stock1\documents\visual studio 2013\Projects\DiceRoll\DiceRoll\obj\Debug\DiceRoll.Form1.resources
+c:\users\stock1\documents\visual studio 2013\Projects\DiceRoll\DiceRoll\obj\Debug\DiceRoll.Properties.Resources.resources
+c:\users\stock1\documents\visual studio 2013\Projects\DiceRoll\DiceRoll\obj\Debug\DiceRoll.csproj.GenerateResource.Cache
+c:\users\stock1\documents\visual studio 2013\Projects\DiceRoll\DiceRoll\obj\Debug\DiceRoll.exe
+c:\users\stock1\documents\visual studio 2013\Projects\DiceRoll\DiceRoll\obj\Debug\DiceRoll.pdb
+C:\Users\Stock1\Downloads\DiceRollV1.3\DiceRoll\DiceRoll\bin\Debug\DiceRoll.exe.config
+C:\Users\Stock1\Downloads\DiceRollV1.3\DiceRoll\DiceRoll\obj\Debug\DiceRoll.exe
+C:\Users\Stock1\Downloads\DiceRollV1.3\DiceRoll\DiceRoll\obj\Debug\DiceRoll.pdb
+C:\Users\Stock1\Downloads\DiceRollV1.3\DiceRoll\DiceRoll\bin\Debug\DiceRoll.exe
+C:\Users\Stock1\Downloads\DiceRollV1.3\DiceRoll\DiceRoll\bin\Debug\DiceRoll.pdb
+C:\Users\Stock1\Downloads\DiceRollV1.3\DiceRoll\DiceRoll\obj\Debug\DiceRoll.csprojResolveAssemblyReference.cache
+C:\Users\Stock1\Downloads\DiceRollV1.3\DiceRoll\DiceRoll\obj\Debug\DiceRoll.Form1.resources
+C:\Users\Stock1\Downloads\DiceRollV1.3\DiceRoll\DiceRoll\obj\Debug\DiceRoll.Properties.Resources.resources
+C:\Users\Stock1\Downloads\DiceRollV1.3\DiceRoll\DiceRoll\obj\Debug\DiceRoll.csproj.GenerateResource.Cache
+C:\Users\Stock1\Documents\GitHub\Dice-Roll\DiceRoll\DiceRoll\bin\Debug\DiceRoll.exe.config
+C:\Users\Stock1\Documents\GitHub\Dice-Roll\DiceRoll\DiceRoll\obj\Debug\DiceRoll.exe
+C:\Users\Stock1\Documents\GitHub\Dice-Roll\DiceRoll\DiceRoll\obj\Debug\DiceRoll.pdb
